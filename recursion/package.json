@@ -1,0 +1,23 @@
+{
+  "name": "javascript_practice",
+  "version": "1.0.0",
+  "description": "Javascript practice contain the fundamental of Javascript and concepts. very useful for beginner Javascript",
+  "main": "recursion.js",
+  "scripts": {
+    "start": "nodemon recursion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeshachArinze/javascript_practice.git"
+  },
+  "keywords": [],
+  "author": "MeshachArinze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeshachArinze/javascript_practice/issues"
+  },
+  "homepage": "https://github.com/MeshachArinze/javascript_practice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
