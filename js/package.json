@@ -5,7 +5,8 @@
   "main": "recursion.js",
   "scripts": {
     "start": "nodemon recursion.js",
-    "start1": "nodemon closure.js"
+    "start1": "nodemon closure.js",
+    "start2": "nodemon decorator.js"
   },
   "repository": {
     "type": "git",
