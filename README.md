@@ -8,6 +8,6 @@
 
 # fill free to star the project
 
+credit and honour to [here](https://javascript.info/)
 
 # credit and honour to [here](https://javascript.info/)
-
