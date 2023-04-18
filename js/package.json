@@ -4,7 +4,8 @@
   "description": "Javascript practice contain the fundamental of Javascript and concepts. very useful for beginner Javascript",
   "main": "recursion.js",
   "scripts": {
-    "start": "nodemon recursion.js"
+    "start": "nodemon recursion.js",
+    "start1": "nodemon closure.js"
   },
   "repository": {
     "type": "git",
